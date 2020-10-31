@@ -17,9 +17,9 @@
         
         <nav>
             
-            <a href="index.html"> Home </a>
-            <a href="about.html"> About </a>
-            <a href="contact.html"><strong><u> Contact Me </u></strong></a>
+            <a href="index.php"> Home </a>
+            <a href="about.php"> About </a>
+            <a href="contact.php"><strong><u> Contact Me </u></strong></a>
             
         </nav>
         
