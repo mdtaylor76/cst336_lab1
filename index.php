@@ -32,10 +32,12 @@
 
                 Hello! <br />
                 <p>Welcome to my site!</p>
-                <p>This is a personal site where I'm going to talk a little bit about myself, but more specifically about my dog.  This is my dog Ava.  
-                She's a Papillon, which is french for butterfly.  It's also a Steve McQueen movie about a french counterfitter with a butterfly
-                tattoo that escapes from Devil's Island with the help of Dustin Hoffman.  Ava weighs only three pounds and is thirteen years old.</p>
-                <p>I have another dog named Pancake that we found in the wreckage of a burned down neighborhood in Santa Rosa, Calfirnia after a wildfire
+                <p>This is a personal site where I'm going to talk a little bit about myself, but more specifically about my dog.  
+                This is my dog Ava.  She's a Papillon, which is French for butterfly.  It's also a Steve McQueen movie about a 
+                French counterfeiter with a butterfly tattoo that escapes from Devil's Island with the help of Dustin Hoffman.  
+                Ava weighs only three pounds and is thirteen years old.</p>
+                <p>I have another dog named Pancake that we found in the wreckage of a burned down neighborhood in Santa Rosa, 
+                California after a wildfire
                 destroyed most of the houses.</p>
             
                 <em>With great <strong>power</strong> comes great <strong>responsibility</strong>.</em><br />
