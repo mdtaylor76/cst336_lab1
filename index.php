@@ -37,8 +37,7 @@
                 French counterfeiter with a butterfly tattoo that escapes from Devil's Island with the help of Dustin Hoffman.  
                 Ava weighs only three pounds and is thirteen years old.</p>
                 <p>I have another dog named Pancake that we found in the wreckage of a burned down neighborhood in Santa Rosa, 
-                California after a wildfire
-                destroyed most of the houses.</p>
+                California after a wildfire destroyed most of the houses.</p>
             
                 <em>With great <strong>power</strong> comes great <strong>responsibility</strong>.</em><br />
                 - Uncle Ben    
@@ -49,14 +48,14 @@
         
         <footer>
             <hr>
-            <stuff>
+            <div class="footer-class">
                 <figure>
                     <img src="img/CSUMB-Round-Small.png">
                 </figure>
                 <p>CST336 Internet Programming. 2020&copy; Frankenheimer <br />
                 <strong>Disclaimer:</strong> The information on this site is FAKE! <br />
                 For academic purposes only!</p>
-            </stuff>
+            </div>
         </footer>
 
     </body>
